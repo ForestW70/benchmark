@@ -1,0 +1,23 @@
+{
+  "name": "benchmark",
+  "version": "1.0.0",
+  "description": "i need to find more benches",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ForestW70/benchmark.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ForestW70/benchmark/issues"
+  },
+  "homepage": "https://github.com/ForestW70/benchmark#readme",
+  "dependencies": {
+    "@googlemaps/js-api-loader": "^1.15.1"
+  }
+}
